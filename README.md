@@ -7,11 +7,12 @@ Visualization of [Lending Club loan data](https://www.kaggle.com/datasets/wordsf
 ### 
 | SPRINT | MON | TUES | WED  | THURS | FRI | SAT |
 |--|--|--|--|--|--|--|
-|Sprint 3<br>Week 2<br>(September 29)|(1pt) Create github profile Readme|(1pt) Create function for consistent data summarization|(1pt) Create function for consistent data cleaning|(1pt) Write up for exploratory analysis of rejected data|(1pt) Write up for exploratory analysis of accepted data||
+|Sprint 4<br>Week 0<br>(January 12)|(1pt) Create github profile Readme|(1pt) Create function for consistent data summarization|(1pt) Create function for consistent data cleaning|(1pt) Write up for exploratory analysis of rejected data|(1pt) Write up for exploratory analysis of accepted data||
 
 Note: Strikethrough means completion of a task.
 
 ## Previous Projects
+* [Personal Website](https://fboyaka.github.io/)
 * [OSU College of Engineering Bingo Sheet](https://fboyaka.github.io/code/AU23BingoSheet.html)
 * [DnD Calculator](https://fboyaka.github.io/code/DnDCalc.html)
 
