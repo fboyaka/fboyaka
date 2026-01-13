@@ -7,7 +7,7 @@ Visualization of [Lending Club loan data](https://www.kaggle.com/datasets/wordsf
 ### 
 | SPRINT | MON | TUES | WED  | THURS | FRI | SAT |
 |--|--|--|--|--|--|--|
-|Sprint 4<br>Week 0<br>(January 12)|(1pt) Create github profile Readme|(1pt) Create function for consistent data summarization|(1pt) Create function for consistent data cleaning|(1pt) Write up for exploratory analysis of rejected data|(1pt) Write up for exploratory analysis of accepted data||
+|Sprint 4<br>Week 0<br>(January 12)|(1pt) ~~Update github profile Readme~~|(1pt) Create function for consistent data summarization|(1pt) Create function for consistent data cleaning|(1pt) Write up for exploratory analysis of rejected data|(1pt) Write up for exploratory analysis of accepted data||
 
 Note: Strikethrough means completion of a task.
 
